@@ -6,3 +6,6 @@
 4. Train-Test Split,Imputation,standardization,one-hot encoding of categorical columns</br?>
 5. Model builiding , SMOTe</br>
 6. Fitting the model and Finding the error metrics of train and test data</br>
+7. Selection of Recall as metric </br>
+
+Final Model Selection based on the business requirement. Decision Trees with hyper parameter tuning has out performed among the other models.
